@@ -1,0 +1,5 @@
+Gene,logFC,p_value,Regulation
+TP53 regulated inhibitor of apoptosis 1,1.469664,0.0001694953,Upregulated
+TP53 induced glycolysis regulatory phosphatase,1.3958384,0.0029946042,Upregulated
+TP53 induced nuclear protein 1,1.5994363,1.549354e-06,Upregulated
+TP53 target 1,1.6278683,3.7776395e-08,Upregulated
